@@ -1,6 +1,6 @@
 
 local BASE =
-    "https://raw.githubusercontent.com/ChanelForEditsGames/Bot-Autonom-Beta-/main/"
+    "https://raw.githubusercontent.com/ChanelForEditsGames/Bot-autonom-Beta-/main/"
 
 local function LoadModule(fileName)
     local source = game:HttpGet(BASE .. fileName)
